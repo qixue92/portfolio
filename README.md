@@ -40,4 +40,4 @@ Sustainable Development Goals Research and Advocacy Officer
 
 ---
 
-[View Full CV](file:///Users/qixue/Documents/GitHub/qixue92.github.io/CV_Qi-Xue.html)
+[View Full CV](https://github.com/qixue92/qixue92.github.io/blob/main/CV_Qi-Xue.html)
