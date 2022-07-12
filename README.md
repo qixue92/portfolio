@@ -1,9 +1,5 @@
 ## Welcome to Qi Xue's Personal Website. 
 
-You can use the [editor on GitHub](https://github.com/qixue92/qixue92.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 1. Introduction
 
 I am a public policy professional with over five years of experience in stakeholder analysis, data wrangling and analytical capabilities with demonstrated proficiency in quantitative and qualitative research methods. Sectoral experience includes public management, environment and aid effectiveness.
