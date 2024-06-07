@@ -32,8 +32,3 @@ Sustainable Development Goals Research and Advocacy Officer
 * Recruited and trained 50 volunteers from the Association of Southeast Asian Nations (ASEAN) and supported 68 local advocacy events in 9 countries, reaching 11,500 people through online and offline outreach methods and guided over 3,500 participants during regional events
 * Supported thematic policy research and analysis, identified policy gaps and best practices in thematic and cross-cutting areas linked to the SDGs, e.g., Accelerating Progress: An empowered, inclusive and equal Asia and the Pacific (2019)
 * Prepared policy brief on Social Protection in Asia and Pacific courtiers to identify the best practice for policy support to UNDP Country Offices
-
-
----
-
-[View Full CV](https://github.com/qixue92/qixue92.github.io/blob/main/CV_Qi-Xue.html)
