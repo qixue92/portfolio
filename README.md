@@ -8,14 +8,17 @@
 ## Education
 
 #### GEORGETOWN UNIVERSITY (Washington DC, US)
-MA in International Development Policy (GPA: 3.68/4)                                                                                *Aug 2020 – May 2022*
+MA in International Development Policy (GPA: 3.68/4)                                                                                  
+*Aug 2020 – May 2022*
 *	Awarded with a merit-based scholarship ($5,000) and **Dean's Scholarship** ($7,500); President of East Asian Policy Association (EAPA); **McCourt School Leadership Fellow**
 
 #### UNIVERSITY OF LONDON, SOAS	(London, UK)
-MA in International Studies and Diplomacy (Class: Merit)                                                                             *Sept 2014 – Sept 2015*
+MA in International Studies and Diplomacy (Class: Merit)                                                                             
+*Sept 2014 – Sept 2015*
 
 #### CHINA YOUTH UNIVERSITY OF POLITICAL SCIENCES (Beijing, China)
-BA in Social Work (GPA: 3.5/4)	                                                                                                     *Sept 2010 – Jun 2014*
+BA in Social Work (GPA: 3.5/4)	                                                                                                     
+*Sept 2010 – Jun 2014*
 
 
 ---
