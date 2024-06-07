@@ -1,4 +1,9 @@
-My expertise spans environmental, agricultural, and public health sectors. I have collaborated with international organizations and lived and worked in diverse cultural settings. I excel at transforming complex data into actionable insights to inform policy decisions, thriving in dynamic, multicultural environments. My goal is to drive impactful change through data-driven strategies.
+
+*My expertise spans environmental, agricultural, and public health sectors. I have collaborated with international organizations and lived and worked in diverse cultural settings. I excel at transforming complex data into actionable insights to inform policy decisions, thriving in dynamic, multicultural environments. My goal is to drive impactful change through data-driven strategies.*
+
+
+
+---
 
 ## Education
 
