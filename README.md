@@ -1,34 +1,107 @@
 ## Welcome to Qi Xue's Personal Website. 
 
-### 1. Introduction
+### 1. Summary
 
-I am a public policy professional with over five years of experience in stakeholder analysis, data wrangling and analytical capabilities with demonstrated proficiency in quantitative and qualitative research methods. Sectoral experience includes public management, environment and aid effectiveness.
-
+I am a policy professional with a robust background in econometric analysis and a strong commitment to evidence-based policymaking. My expertise spans environmental, agricultural, and public health sectors. I have collaborated with international organizations and lived and worked in diverse cultural settings. I excel at transforming complex data into actionable insights to inform policy decisions, thriving in dynamic, multicultural environments. My goal is to drive impactful change through data-driven strategies.
 
 ---
 
-### 2. My Latest Work Experience
+### 2. Professional Experience
 
-#### WORLD BANK (Washington DC, US)                                                                                  
-Research Assistant, Social Protection and Jobs Global Practice Unit  
-*Sept 2021 – May 2022*
-* Processed and analyzed over 4,000 web-scraped government-initiated social protection responses during the COVID-19 pandemic from over 223 countries and regions
-* Produced real-time review of country measures (Stata & R) in summary tables for monthly updates
-* Generated over 20 data visualizations (Tableau) for policy briefs and reports
-* Designed research plans for developing predictive analytics on effective service delivery; explored correlational relations of macro factors on social protection prevalence using time series data
+#### ACUMEN LLC (Washington DC, US)                                                                                                                       		
+Data and Policy Analyst – Statistical Programmer, ***Division of Fraud Prevention Partnership***
+*May 2023 – May 2024*                            
+*	Developed advanced statistical techniques to extract, transform, and analyze large datasets (e.g. Medicare data); supported the methodological development of database management and workflows used for the measurement and monitoring of fraudulent patterns
+*	Implemented **data analysis workflows** using SAS and identified fraudulent claims totaling $16 million; applied data validation and verification to identify relationships, profiles, and trends for decision-making
 
-#### PRECISION AGRICULTURE FOR DEVELOPMENT (Odisha, India)          
-Research and Operations Intern, India Country Office                                                           
+#### THE WORLD BANK GROUP (Washington DC, US)                                                                              
+Data Analyst Consultant, ***Digital Health Team***
+*Aug 2022 – May 2023*
+*	Analyzed 193 World Bank procurement projects using **R and Stata** and identified 80 million cost discrepancies in comparison with manual estimation; documented methodologies and findings, ensuring transparency, accessibility and easy **replicability of analytical workflow**
+*	Translated complex analytical findings into understandable and actionable **visual reports** and produced 20 tabulated tables for the final report
+*	Acted as the **liaison** between the project lead and a team of 5 consultants; increased a 15% of collaborative effort, according to Microsoft Team's statistics
+
+Research Assistant, ***Social Protection and Jobs Global Practice Unit***
+*Sept 2021 – May 2023*
+*	Supported **regional and country-level** analysis in the formulation and framing of research and analytical questions; designed research plans and **statistical models** (binomial and regressions) to predict policy impact for effective social service delivery
+*	Facilitated data-driven decision-making by providing concise **visual summaries** of analysis; created over 20 tables and graphs using **Stata and R** for policy briefs and the final report (with a total of **44,792 downloads** as of 2023)
+*	Documented insights from the Social Protection Sourcebook, including webinars, learning notes, and presentations
+
+#### INTERNATIONAL FOOD AND POLICY RESEARCH INSTITUTE (IFPRI) (Washington DC, US)
+Collaborator, ***Markets, Trade, and Institutions Division***
+*Dec 2022 – Feb 2023*
+*	Re-designed four **country-specific and sector-specific surveys** for agricultural commodities (e.g. coffee, maize and rice) in Uganda and Bangladesh
+
+#### GEORGETOWN UNIVERSITY (Washington DC, US)
+Associate Instructor, ***McCourt School of Public Policy***                                                                    
+*Aug 2022 – May 2023*
+*	Collaborated with the course advisors to plan and teach classes for over 100 graduate students in Introduction to Stata; dedicated a total of 150 teaching hours
+*	Assisted in teaching *Impact Evaluation in Developing Countries* by hosting 20 office hours, grading 110 problem sets, and offering constructive feedback; mentored students and contributed to the development of course materials
+
+#### PRECISION DEVELOPMENT (PxD) (Odisha, India)
+Research and Operations Intern, ***India Country Office***                                                                     
 *May 2021 – Aug 2021*
-* Implemented agricultural extension services to farmers in Odisha and West Bengal, including survey design (JSON), high-frequency quality checks (HFCs), and data wrangling
-* Conducted significance tests in Stata to compare the gender differences in livestock farming
-* Designed and implemented A/B testing on information delivery methods and timing
-* Co-authored policy blog posts on Gender Differences in Farming Engagement and prepared detailed reports on the outcomes of the agricultural extension services
+*	Analyzed baseline and midline agricultural **survey data** from information interventions in farming and livestock raising in Odisha and West Bengal of India; contributed to improving data quality at the collection stage, including **High-Frequency Checks (HFCs)** and routine program reporting
+*	Co-authored *Gender Differences in Farming Engagement*, which examines the policy impacts of information interventions at different scales through the **gender lens**
 
-#### UNITED NATIONS DEVELOPMENT PROGRAMME (Bangkok, Thailand)                                      
-Sustainable Development Goals Research and Advocacy Officer
-*Aug 2018 – Jun 2019*                  
-* Collected 40,000 online surveys and created a dynamic data dashboard on Google Analytics to measure the success of participant engagement during the 16 regional-level events centered on the UN Sustainable Development Goals (SDGs)
-* Recruited and trained 50 volunteers from the Association of Southeast Asian Nations (ASEAN) and supported 68 local advocacy events in 9 countries, reaching 11,500 people through online and offline outreach methods and guided over 3,500 participants during regional events
-* Supported thematic policy research and analysis, identified policy gaps and best practices in thematic and cross-cutting areas linked to the SDGs, e.g., Accelerating Progress: An empowered, inclusive and equal Asia and the Pacific (2019)
-* Prepared policy brief on Social Protection in Asia and Pacific courtiers to identify the best practice for policy support to UNDP Country Offices
+#### CENTER FOR INTERNATIONAL KNOWLEDGE ON DEVELOPMENT (Beijing, China)
+Research Assistant, ***Global Development Division***
+*Mar 2020 – May 2022*
+*	Published and co-authored The Digital Silk Road and Southeast Asian Countries with the KDI School of Public Policy and Management (Sejong City, South Korea)
+
+#### UNITED NATIONS DEVELOPMENT PROGRAMME (UNDP) (Bangkok, Thailand)
+SDGs Research and Advocacy Officer, Inclusive Growth, Agenda 2030/SDGs	                                           
+*Aug 2018 – Jun 2019*
+*	**Recruited and trained a team of 50 volunteers** from the Association of Southeast Asian Nations (ASEAN) to support 68 local advocacy events across 9 countries
+*	Engaged with 11,500 individuals through online and offline outreach, and spoke to over 3,500 participants during in-person regional events
+*	**Led the collection of 40,000 online surveys** and leveraged data to develop a dynamic dashboard using Google Analytics to measure the success of participant engagement during 16 regional-level events on the UN Sustainable Development Goals (SDGs)
+
+#### GREENPEACE	(Beijing, China)
+Policy Analyst, ***Green Finance and Sustainable Development Working Group***                                        
+*Oct 2017 – Mar 2018*
+*	Conducted **comparative analyses** on China's overseas safeguards policy with that of the UK, the US, Brazil, and Japan; distilled and proposed the best **sustainable investment practices** for Chinese-owned businesses and investment funds
+*	Liaised with 15 practitioners and professors to cohost **monthly roundtable meetings** to advance policy advocacy on greening the Belt and Road Initiative
+
+Detox Campaigner, ***Detox Unit***                                                                                                                      
+*Mar – Oct 2016*
+*	Developed a database cataloging 232 chemical accidents occurred across 30 provinces in China
+*	Initiated and curated a **monthly newsletter** to communicate key findings and insights with **stakeholders** and subscribers; bolstered the campaign on safeguarding residents living near the chemical industrial parks
+
+#### DRAPHANT CONSULTANTS PRIVATE LIMITED	(New Delhi, India)
+Research Analyst, ***Department of Research***                                                                                                          
+*Feb – Sept 2017*
+*	Generated business intelligence reports to support **business decision-making** for Chinese firms entering the Indian market, which was prominently featured in the *Guide to Doing Business in India* (2017)
+*	Managed two junior staff members who supported the market research and policy briefing
+
+#### DEVELOPMENT RESEARCH CENTER OF THE STATE COUNCIL (Beijing, China)
+Program Intern, ***Department of International Cooperation***	                                                                        
+*Oct 2016 – Jan 2017*
+*	Facilitated **website design** and conducted **knowledge mapping** for the *Silk Road Think Tank Network*, a multilateral network that includes the OECD and encompasses 47 research institutions from 27 countries
+
+---
+
+### 3. Education
+
+#### GEORGETOWN UNIVERSITY (Washington DC, US)
+MA in International Development Policy (GPA: 3.68/4)                                                                                
+*Aug 2020 – May 2022*
+*	Awarded with a merit-based scholarship ($5,000) and **Dean's Scholarship** ($7,500); President of East Asian Policy Association (EAPA); **McCourt School Leadership Fellow**
+
+#### UNIVERSITY OF LONDON, SOAS	(London, UK)
+MA in International Studies and Diplomacy (Class: Merit)                                                                             
+*Sept 2014 – Sept 2015*
+
+#### CHINA YOUTH UNIVERSITY OF POLITICAL SCIENCES (Beijing, China)
+BA in Social Work (GPA: 3.5/4)	                                                                                                               
+*Sept 2010 – Jun 2014*
+
+---
+
+### 4. Additional Information
+
+* **Skills**: Stata, R-Studio (tidyverse, ggplot2, tidymodel, shiny), **Python**, Tableau, Power BI, **SQL**, SAS (Data Step, PROC SQL), **Survey CTO, Open Data Kit (ODK)**, Git and GitHub
+* **Languages**: Chinese (Native), English (Fluent) and French (B1)
+
+
+
+
