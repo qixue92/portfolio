@@ -4,6 +4,7 @@
 
 I am a policy professional with a robust background in econometric analysis and a strong commitment to evidence-based policymaking. My expertise spans environmental, agricultural, and public health sectors. I have collaborated with international organizations and lived and worked in diverse cultural settings. I excel at transforming complex data into actionable insights to inform policy decisions, thriving in dynamic, multicultural environments. My goal is to drive impactful change through data-driven strategies.
 
+
 ---
 
 ### 2. Professional Experience
@@ -78,6 +79,7 @@ Program Intern, ***Department of International Cooperation***
 *Oct 2016 – Jan 2017*
 *	Facilitated **website design** and conducted **knowledge mapping** for the *Silk Road Think Tank Network*, a multilateral network that includes the OECD and encompasses 47 research institutions from 27 countries
 
+
 ---
 
 ### 3. Education
@@ -94,6 +96,7 @@ MA in International Studies and Diplomacy (Class: Merit)
 #### CHINA YOUTH UNIVERSITY OF POLITICAL SCIENCES (Beijing, China)
 BA in Social Work (GPA: 3.5/4)	                                                                                                               
 *Sept 2010 – Jun 2014*
+
 
 ---
 
