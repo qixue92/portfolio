@@ -1,13 +1,32 @@
-## Welcome to Qi Xue's Personal Website. 
 
-### 1. Summary
 
-I am a policy professional with a robust background in econometric analysis and a strong commitment to evidence-based policymaking. My expertise spans environmental, agricultural, and public health sectors. I have collaborated with international organizations and lived and worked in diverse cultural settings. I excel at transforming complex data into actionable insights to inform policy decisions, thriving in dynamic, multicultural environments. My goal is to drive impactful change through data-driven strategies.
+## Education
+
+#### GEORGETOWN UNIVERSITY (Washington DC, US)
+MA in International Development Policy (GPA: 3.68/4)                                                                                
+*Aug 2020 – May 2022*
+*	Awarded with a merit-based scholarship ($5,000) and **Dean's Scholarship** ($7,500); President of East Asian Policy Association (EAPA); **McCourt School Leadership Fellow**
+
+#### UNIVERSITY OF LONDON, SOAS	(London, UK)
+MA in International Studies and Diplomacy (Class: Merit)                                                                             
+*Sept 2014 – Sept 2015*
+
+#### CHINA YOUTH UNIVERSITY OF POLITICAL SCIENCES (Beijing, China)
+BA in Social Work (GPA: 3.5/4)	                                                                                                               
+*Sept 2010 – Jun 2014*
 
 
 ---
 
-### 2. Professional Experience
+## Skillsets
+
+* **Skills**: Stata, R-Studio (tidyverse, ggplot2, tidymodel, shiny), **Python**, Tableau, Power BI, **SQL**, SAS (Data Step, PROC SQL), **Survey CTO, Open Data Kit (ODK)**, Git and GitHub
+* **Languages**: Chinese (Native), English (Fluent) and French (B1)
+
+
+---
+
+## Professional Experience
 
 #### ACUMEN LLC (Washington DC, US)                                                                                                                       		
 Data and Policy Analyst – Statistical Programmer, ***Division of Fraud Prevention Partnership***
@@ -81,30 +100,3 @@ Program Intern, ***Department of International Cooperation***
 
 
 ---
-
-### 3. Education
-
-#### GEORGETOWN UNIVERSITY (Washington DC, US)
-MA in International Development Policy (GPA: 3.68/4)                                                                                
-*Aug 2020 – May 2022*
-*	Awarded with a merit-based scholarship ($5,000) and **Dean's Scholarship** ($7,500); President of East Asian Policy Association (EAPA); **McCourt School Leadership Fellow**
-
-#### UNIVERSITY OF LONDON, SOAS	(London, UK)
-MA in International Studies and Diplomacy (Class: Merit)                                                                             
-*Sept 2014 – Sept 2015*
-
-#### CHINA YOUTH UNIVERSITY OF POLITICAL SCIENCES (Beijing, China)
-BA in Social Work (GPA: 3.5/4)	                                                                                                               
-*Sept 2010 – Jun 2014*
-
-
----
-
-### 4. Additional Information
-
-* **Skills**: Stata, R-Studio (tidyverse, ggplot2, tidymodel, shiny), **Python**, Tableau, Power BI, **SQL**, SAS (Data Step, PROC SQL), **Survey CTO, Open Data Kit (ODK)**, Git and GitHub
-* **Languages**: Chinese (Native), English (Fluent) and French (B1)
-
-
-
-
